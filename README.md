@@ -1,3 +1,48 @@
+# Mood Mail 💌
+
+Mood Mail is a **Day 2 project** in my 30-day coding challenge. It’s an elegant and fun **Email Template Generator** based on your current mood – whether you're feeling happy, sad, or angry. Just pick your emotion, and the app crafts a fitting email message for you instantly.
+
+---
+
+## 🌟 Features
+
+- ✨ Simple, clean and modern UI
+- 😄 Mood-based email generation (Happy, Sad, Angry)
+- 💻 Responsive layout – works on desktop & mobile
+- 📨 Instant email message generation
+- 🔥 No login required – just open and use!
+
+---
+
+## 🚀 Live Demo
+
+👉 [Live Demo](https://vel-moodmail.netlify.app/)
+
+---
+
+## 🔗 LinkedIn Post
+
+📌 [View LinkedIn Post](https://www.linkedin.com/posts/velmaran-e-38139b2b0_30daysofprojects-webdevelopment-javascript-activity-7359289005886111745-JODp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErOyVEB2jhy99mca8iuuQxWHug_y8OPbmk)
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS (TailwindCSS)
+- JavaScript
+
+---
+
+
+## 🧑‍💻 How to Run Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/mood-mail.git
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

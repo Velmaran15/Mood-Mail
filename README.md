@@ -1,6 +1,7 @@
 # Mood Mail 💌
 
-Mood Mail is a **Day 2 project** in my 30-day coding challenge. It’s an elegant and fun **Email Template Generator** based on your current mood – whether you're feeling happy, sad, or angry. Just pick your emotion, and the app crafts a fitting email message for you instantly.
+**Mood Mail** is a simple and elegant **Email Template Generator** that helps you express your feelings with ease. Whether you're feeling 😄 happy, 😢 sad, or 😠 angry — Mood Mail creates a mood-based message for you instantly.
+
 
 ---
 
